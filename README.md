@@ -46,4 +46,8 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
     <img src="https://icon.icepanel.io/Technology/svg/Swift.svg" alt="SwiftUI" width="40" height="40"/> 
   </a> 
+  <a href="https://docs.soliditylang.org/en/v0.8.24/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Solidity" width="40" height="40" style="filter: invert(100%);"/> 
+  </a> 
+  
 </p>
