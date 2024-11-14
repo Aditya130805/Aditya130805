@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, I'm Aditya Agarwal 👋</h1>
 <h3 align="center">A Computer Science student at Purdue University, West Lafayette</h3>
 
-- 🔭 I’m currently working on [WallPreview](https://github.com/Aditya130805/WallPreview)
+- 🔭 I’m currently working on [WallPreview](https://github.com/Aditya130805/WallPreview) & [MonopolyDeal](https://github.com/Aditya130805/MonopolyDeal)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 💬 Get in touch with me about projects relating to **Python, C, Java**
+- 💬 Get in touch with me about projects relating to **Python, Java, C**
 
 - 📫 How to reach me **aditya130805@gmail.com**
   
