@@ -3,13 +3,15 @@
 
 - 🔭 I’m currently working on [Cardopoly](https://github.com/Aditya130805/MonopolyDeal)
 
-- 🌱 I’m currently learning **Systems Programming & Machine Learning**
+- 🌱 I’m currently learning **Information Retrieval & Databases**
 
-- 💬 Get in touch with me about projects relating to **Python, Java, C**
+- 💬 Get in touch with me about projects relating to **Python, AI Agents, or Automations**
 
 - 📫 How to reach me **aditya130805@gmail.com**
   
-- 📄 Know about my experiences [https://www.linkedin.com/in/aditya130805/](https://www.linkedin.com/in/aditya130805/)
+- 📄 Know about my experiences [https://www.theadityaagarwal.com/](https://theadityaagarwal.com/)
+
+- 🔗 Connect with me on LinkedIn [https://www.linkedin.com/in/aditya130805/](https://www.linkedin.com/in/aditya130805/)
   
 <!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya130805&show_icons=true&theme=dracula&bg_color=00000000#gh-dark-mode-only)](https://github.com/Aditya130805/#gh-dark-mode-only)
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya130805&show_icons=true&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/Aditya130805/#gh-light-mode-only)
