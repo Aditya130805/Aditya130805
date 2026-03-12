@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cardopoly](https://github.com/Aditya130805/MonopolyDeal)
 
-- 🌱 I’m currently learning **Information Retrieval & Databases**
+- 🌱 I’m currently learning **Cryptography and Robotics **
 
 - 💬 Get in touch with me about projects relating to **Python, AI Agents, or Automations**
 
