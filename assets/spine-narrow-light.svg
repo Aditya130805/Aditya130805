@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="588" viewBox="0 0 380 588" role="img" aria-labelledby="t d">
+  <title id="t">Aditya Agarwal</title>
+  <desc id="d">A career timeline: Launch Ventures, Yamaha Motor, EDP Renewables, Boxsy, and Adobe, with projects built along the way.</desc>
+  <defs>
+  <style>
+    .ink   { fill: #1f2328; }
+    .muted { fill: #57606a; }
+    .accent{ fill: #0969da; }
+    .rule  { stroke: #d0d7de; stroke-width: 1; fill: none; }
+    .dot   { fill: #1f2328; }
+    .odot  { fill: none; stroke: #57606a; stroke-width: 1.2; }
+    .serif { font-family: Georgia, 'Times New Roman', Times, serif; }
+    .sans  { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  </style>
+  <linearGradient id="spine" gradientUnits="userSpaceOnUse" x1="46" y1="112" x2="46" y2="568">
+      <stop offset="0.00" stop-color="#d0d7de" stop-opacity="0"/>
+      <stop offset="0.07" stop-color="#d0d7de" stop-opacity="1"/>
+      <stop offset="0.93" stop-color="#d0d7de" stop-opacity="1"/>
+      <stop offset="1.00" stop-color="#d0d7de" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <text class="ink serif" x="190" y="46" text-anchor="middle" font-size="23" letter-spacing="3.5">ADITYA AGARWAL</text>
+  <line class="rule" x1="130" y1="62" x2="250" y2="62"/>
+  <text class="accent sans" x="190" y="82" text-anchor="middle" font-size="8.5" letter-spacing="2.4">SOFTWARE ENGINEER &#183; PURDUE CS '27</text>
+
+  <line x1="46" y1="112" x2="46" y2="568" stroke="url(#spine)" stroke-width="1"/>
+
+  <circle class="dot" cx="46" cy="150" r="3.4"/>
+  <text class="ink serif" x="66" y="155" font-size="15">Launch Ventures</text>
+  <text class="muted sans" x="66" y="171" font-size="9.5" letter-spacing="1">MAY &#8211; AUG 2024</text>
+
+  <circle class="dot" cx="46" cy="208" r="3.4"/>
+  <text class="ink serif" x="66" y="213" font-size="15">Yamaha Motor</text>
+  <text class="muted sans" x="66" y="229" font-size="9.5" letter-spacing="1">AUG 2024 &#8211; MAY 2025</text>
+  <line class="rule" x1="46" y1="256" x2="58" y2="256"/>
+  <circle class="odot" cx="62" cy="256" r="2.8"/>
+  <text class="ink serif" x="76" y="260" font-size="12.5">BoilerMake XII</text>
+  <text class="muted sans" x="76" y="274" font-size="9">2nd overall, AI interviews</text>
+
+  <circle class="dot" cx="46" cy="300" r="3.4"/>
+  <text class="ink serif" x="66" y="305" font-size="15">EDP Renewables</text>
+  <text class="muted sans" x="66" y="321" font-size="9.5" letter-spacing="1">JUN &#8211; AUG 2025</text>
+  <line class="rule" x1="46" y1="348" x2="58" y2="348"/>
+  <circle class="odot" cx="62" cy="348" r="2.8"/>
+  <text class="ink serif" x="76" y="352" font-size="12.5">WallPreview</text>
+  <text class="muted sans" x="76" y="366" font-size="9">wallpaper preview, CV</text>
+
+  <circle class="dot" cx="46" cy="392" r="3.4"/>
+  <text class="ink serif" x="66" y="397" font-size="15">Boxsy</text>
+  <text class="muted sans" x="66" y="413" font-size="9.5" letter-spacing="1">AUG &#8211; DEC 2025</text>
+  <line class="rule" x1="46" y1="440" x2="58" y2="440"/>
+  <circle class="odot" cx="62" cy="440" r="2.8"/>
+  <text class="ink serif" x="76" y="444" font-size="12.5">Cardigarch</text>
+  <text class="muted sans" x="76" y="458" font-size="9">realtime multiplayer</text>
+
+  <circle class="rule" cx="46" cy="484" r="9" opacity="0.55"/>
+  <circle class="accent" cx="46" cy="484" r="4.6"/>
+  <text class="accent serif" x="66" y="489" font-size="16">Adobe</text>
+  <text class="muted sans" x="66" y="505" font-size="9.5" letter-spacing="1">MAY &#8211; AUG 2026</text>
+  <line class="rule" x1="46" y1="532" x2="58" y2="532"/>
+  <circle class="odot" cx="62" cy="532" r="2.8"/>
+  <text class="ink serif" x="76" y="536" font-size="12.5">CraftCover</text>
+  <text class="muted sans" x="76" y="550" font-size="9">cover letters, fast</text>
+</svg>

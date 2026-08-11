@@ -1,42 +1,88 @@
-<h1 align="center">Hello there, I'm Aditya Agarwal 👋</h1>
-<h3 align="center">A Computer Science student at Purdue University, West Lafayette</h3>
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/spine-narrow-dark.svg">
+    <source media="(max-width: 600px)" srcset="./assets/spine-narrow-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/spine-dark.svg">
+    <img src="./assets/spine-light.svg" width="100%" alt="Aditya Agarwal — a career timeline. Above the line: Launch Ventures, Yamaha Motor, EDP Renewables, Boxsy, Adobe. Below the line: BoilerMake XII, WallPreview, Cardigarch, CraftCover.">
+  </picture>
+</div>
 
-- 🔭 I’m currently working on [Cardopoly](https://github.com/Aditya130805/MonopolyDeal)
-
-- 🌱 I’m currently learning **Cryptography and Robotics**
-
-- 💬 Get in touch with me about projects relating to **Python, AI Agents, or Automations**
-
-- 📫 How to reach me **aditya130805@gmail.com**
-  
-- 📄 Know about my experiences [https://www.theadityaagarwal.com/](https://theadityaagarwal.com/)
-
-- 🔗 Connect with me on LinkedIn [https://www.linkedin.com/in/aditya130805/](https://www.linkedin.com/in/aditya130805/)
-  
-<!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya130805&show_icons=true&theme=dracula&bg_color=00000000#gh-dark-mode-only)](https://github.com/Aditya130805/#gh-dark-mode-only)
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya130805&show_icons=true&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/Aditya130805/#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya130805&layout=donut&theme=dracula&hide_progress=true&bg_color=00000000)](https://github.com/Aditya130805/#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya130805&layout=donut&theme=default&hide_progress=true&bg_color=00000000)](https://github.com/Aditya130805/#gh-light-mode-only) -->
-
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya130805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya130805" height="30" width="40" /></a>
+<p align="center">
+  <em>Above the line, where I've worked. Below it, what I was building at the time.</em>
 </p>
--->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>&nbsp;
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>&nbsp;
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>&nbsp;
-<a href="https://appian.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/appian.svg" width="40"/></a>&nbsp;
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40"/></a>&nbsp;
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>&nbsp;
-<a href="https://developer.apple.com/swift/"><img src="https://icon.icepanel.io/Technology/svg/Swift.svg" width="40"/></a>&nbsp;
-<a href="https://docs.soliditylang.org/"><img src="https://www.svgrepo.com/show/374088/solidity.svg" width="40"/></a>
+<p align="center">
+  <a href="https://theadityaagarwal.com">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/aditya130805/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:aditya130805@gmail.com">Email</a>
+</p>
+
+---
+
+CS at Purdue, class of 2027. I tend to gravitate toward the unglamorous half of a
+product — the log pipeline behind the dashboard, the reconnect logic behind the
+smooth game, the retrieval quality behind the agent. Most of my work lately has
+been applied AI and the infrastructure that makes it usable by people who didn't
+build it.
+
+## Experience
+
+**Adobe** — Software Engineer Intern · San Jose, CA · May–Aug 2026  
+Built an AI diagnostic engine that reads across Adobe Cloud Manager, Splunk,
+Kubernetes and Azure logs to pinpoint root causes — in production with **75+
+enterprise support engineers**. Unified those fragmented log sources into one
+troubleshooting interface, and cut local workspace startup from **7 minutes to 7
+seconds** with persistent Docker volumes and conditional S3 snapshot restores.
+
+**Boxsy** — Data Science Researcher · Remote · Aug–Dec 2025  
+Built data ingestion pipelines over founder email and calendar activity, with NLP
+models that identify funding events and advance pipeline stages at **97%
+accuracy** — surfaced to founders as a single real-time view of their raise.
+
+**EDP Renewables North America** — Software Engineer Intern, Applied AI · Houston, TX · Jun–Aug 2025  
+Shipped a natural-language agent over **16,800+ CRM landowner leads**, giving 50+
+project developers faster answers going into meetings. Also delivered an
+Appian-based workflow system for environmental proposal research, with
+multi-level approvals.
+
+**Yamaha Motor Corporation** — Data Science Researcher · West Lafayette, IN · Aug 2024–May 2025  
+Automated and optimized factory production scheduling for Yamaha propellers —
+**10% more throughput** and roughly **$100k a year** in operational savings — and
+built the pipelines feeding order and production data into real-time analytics.
+
+**Launch Ventures** — Software Engineer Intern, Applied AI · Remote · May–Aug 2024  
+Built an AI agent that merged multi-platform data into user profiles, and RAG
+pipelines that improved documentation accessibility by 25% at an **F1 of 89%**.
+Led UI and web app development in Vue, with AWS deployment and Stripe billing.
+
+<sub>Boxsy and Yamaha were research placements through Purdue's Data Mine.
+Earlier: ML research at Purdue's Weldon School of Biomedical Engineering.</sub>
+
+## Selected work
+
+**[Cardigarch](https://cardigarch.com)** — realtime multiplayer property-trading
+card game. Quick match, spicy mode, solo play against bots, leaderboards and
+achievements. Still actively shipping to it.
+
+**[CraftCover](https://craftcover.vercel.app)** — turns a resume and a job post
+into a tailored cover letter in seconds.
+
+**[WallPreview](http://wallpreviews.com/)** — upload a photo of your wall and
+preview wallpaper on it, using image segmentation.
+
+**BoilerMake XII** — 2nd overall, for an AI mock-interview tool.
+
+## Stack
+
+**Languages** Python · TypeScript · Java · Scala · C · Swift  
+**Web** React · Next.js · Vue · Django · FastAPI  
+**Data & infra** PostgreSQL · Redis · Docker · AWS · GCP · Azure
+
+---
+
+<p align="center">
+  Happy to talk about applied AI, agent tooling, or realtime systems —
+  <a href="mailto:aditya130805@gmail.com">aditya130805@gmail.com</a>
 </p>
