@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+  <title id="title">Aditya's path</title>
+  <desc id="desc">Vertical timeline from Launch Ventures to Adobe, with projects along the way.</desc>
+  <defs>
+    <style>
+      .co { fill: #24292f; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; }
+      .now { fill: #0969da; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 700; }
+      .yr { fill: #656d76; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; }
+      .pr { fill: #656d76; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; }
+      .stem { stroke: #d0d7de; stroke-width: 1.5; fill: none; }
+      .dot { fill: #24292f; }
+      .ring { fill: #ffffff; stroke: #0969da; stroke-width: 2; }
+      .core { fill: #0969da; }
+    </style>
+  </defs>
+
+  <line class="stem" x1="36" y1="28" x2="36" y2="390"/>
+
+  <circle class="dot" cx="36" cy="40" r="4"/>
+  <text class="co" x="60" y="36">Launch Ventures</text>
+  <text class="yr" x="60" y="54">2024</text>
+
+  <circle class="dot" cx="36" cy="110" r="4"/>
+  <text class="co" x="60" y="106">Yamaha</text>
+  <text class="yr" x="60" y="124">2024  25</text>
+  <text class="pr" x="60" y="144">³ BoilerMake · 2nd overall</text>
+
+  <circle class="dot" cx="36" cy="190" r="4"/>
+  <text class="co" x="60" y="186">EDP Renewables</text>
+  <text class="yr" x="60" y="204">2025</text>
+  <text class="pr" x="60" y="224">³ WallPreview</text>
+
+  <circle class="dot" cx="36" cy="270" r="4"/>
+  <text class="co" x="60" y="266">Boxsy</text>
+  <text class="yr" x="60" y="284">2025</text>
+  <text class="pr" x="60" y="304">³ Cardigarch</text>
+
+  <circle class="ring" cx="36" cy="360" r="7"/>
+  <circle class="core" cx="36" cy="360" r="3.5"/>
+  <text class="now" x="60" y="356">Adobe</text>
+  <text class="yr" x="60" y="374">now</text>
+  <text class="pr" x="60" y="394">³ TravelMontage</text>
+</svg>
