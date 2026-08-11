@@ -20,7 +20,7 @@ I like building things that feel good to use and hold up under the hood — appl
 ### Things I've made
 
 - **[Cardigarch](https://cardigarch.com)** — realtime multiplayer card game (still shipping)
-- **[TravelMontage](https://travelmontage.com)** — trip photos → a swipeable story in about a minute
+- **[TravelMontage](https://travelmontage.com)** — trip photos → a swipeable story in about a minute (still shipping)
 - **[WallPreview](http://wallpreviews.com/)** — preview wallpaper on a photo of your wall
 - **BoilerMake XII** — 2nd overall with an AI mock-interview tool
 
