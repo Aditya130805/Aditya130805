@@ -1,23 +1,17 @@
-<div align="center">
-
-# Hey, I'm Aditya 👋
-
-**Software Engineering Intern @ Adobe** · Purdue CS '27
-
-[Website](https://theadityaagarwal.com) · [LinkedIn](https://www.linkedin.com/in/aditya130805/) · [Email](mailto:aditya130805@gmail.com)
-
-</div>
-
-<br/>
-
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/path-narrow-dark.svg">
-    <source media="(max-width: 600px)" srcset="./assets/path-narrow-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/path-dark.svg">
-    <img src="./assets/path-light.svg" width="100%" alt="Experience timeline: Launch Ventures 2024, Yamaha 2024-25, EDP Renewables 2025, Boxsy 2025, and Adobe now." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <img src="./assets/header-light.svg" width="720" alt="Hey, I'm Aditya. Software Engineering Intern @ Adobe, Purdue CS '27." />
   </picture>
 </p>
+
+<p align="center"><a href="https://theadityaagarwal.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-website-dark.svg"><img src="./assets/social-website-light.svg" width="138" alt="Website" /></picture></a> <a href="https://www.linkedin.com/in/aditya130805/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-linkedin-dark.svg"><img src="./assets/social-linkedin-light.svg" width="138" alt="LinkedIn" /></picture></a> <a href="mailto:aditya130805@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-email-dark.svg"><img src="./assets/social-email-light.svg" width="138" alt="Email" /></picture></a></p>
+
+---
+
+<h3 align="center">Where I've worked</h3>
+
+<p align="center"><a href="https://www.linkedin.com/company/launch-ventures/"><picture><source media="(max-width: 700px) and (prefers-color-scheme: dark)" srcset="./assets/card-launch-dark.svg"><source media="(max-width: 700px)" srcset="./assets/card-launch-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/role-launch-dark.svg"><img src="./assets/role-launch-light.svg" alt="Launch Ventures, 2024" /></picture></a><a href="https://www.linkedin.com/company/yamaha-motor-corporation-usa/"><picture><source media="(max-width: 700px) and (prefers-color-scheme: dark)" srcset="./assets/card-yamaha-dark.svg"><source media="(max-width: 700px)" srcset="./assets/card-yamaha-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/role-yamaha-dark.svg"><img src="./assets/role-yamaha-light.svg" alt="Yamaha, 2024 to 25" /></picture></a><a href="https://www.linkedin.com/company/edprna/"><picture><source media="(max-width: 700px) and (prefers-color-scheme: dark)" srcset="./assets/card-edp-dark.svg"><source media="(max-width: 700px)" srcset="./assets/card-edp-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/role-edp-dark.svg"><img src="./assets/role-edp-light.svg" alt="EDP Renewables, 2025" /></picture></a><a href="https://www.linkedin.com/company/boxsy/"><picture><source media="(max-width: 700px) and (prefers-color-scheme: dark)" srcset="./assets/card-boxsy-dark.svg"><source media="(max-width: 700px)" srcset="./assets/card-boxsy-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/role-boxsy-dark.svg"><img src="./assets/role-boxsy-light.svg" alt="Boxsy, 2025" /></picture></a><a href="https://www.linkedin.com/company/adobe/"><picture><source media="(max-width: 700px) and (prefers-color-scheme: dark)" srcset="./assets/card-adobe-dark.svg"><source media="(max-width: 700px)" srcset="./assets/card-adobe-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/role-adobe-dark.svg"><img src="./assets/role-adobe-light.svg" alt="Adobe, now" /></picture></a></p>
 
 ---
 
