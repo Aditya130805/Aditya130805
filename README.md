@@ -15,7 +15,7 @@
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/path-narrow-dark.svg">
     <source media="(max-width: 600px)" srcset="./assets/path-narrow-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/path-dark.svg">
-    <img src="./assets/path-light.svg" width="100%" alt="A path from Launch Ventures to Adobe, with projects like WallPreview, Cardigarch, and TravelMontage along the way." />
+    <img src="./assets/path-light.svg" width="100%" alt="Experience timeline: Launch Ventures 2024, Yamaha 2024-25, EDP Renewables 2025, Boxsy 2025, and Adobe now." />
   </picture>
 </p>
 
