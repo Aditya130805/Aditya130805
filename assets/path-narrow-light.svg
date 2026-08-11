@@ -22,22 +22,22 @@
 
   <circle class="dot" cx="36" cy="110" r="4"/>
   <text class="co" x="60" y="106">Yamaha</text>
-  <text class="yr" x="60" y="124">2024  25</text>
-  <text class="pr" x="60" y="144">³ BoilerMake · 2nd overall</text>
+  <text class="yr" x="60" y="124">2024 &#8211; 25</text>
+  <text class="pr" x="60" y="144">&#8211; BoilerMake &#183; 2nd overall</text>
 
   <circle class="dot" cx="36" cy="190" r="4"/>
   <text class="co" x="60" y="186">EDP Renewables</text>
   <text class="yr" x="60" y="204">2025</text>
-  <text class="pr" x="60" y="224">³ WallPreview</text>
+  <text class="pr" x="60" y="224">&#8211; WallPreview</text>
 
   <circle class="dot" cx="36" cy="270" r="4"/>
   <text class="co" x="60" y="266">Boxsy</text>
   <text class="yr" x="60" y="284">2025</text>
-  <text class="pr" x="60" y="304">³ Cardigarch</text>
+  <text class="pr" x="60" y="304">&#8211; Cardigarch</text>
 
   <circle class="ring" cx="36" cy="360" r="7"/>
   <circle class="core" cx="36" cy="360" r="3.5"/>
   <text class="now" x="60" y="356">Adobe</text>
   <text class="yr" x="60" y="374">now</text>
-  <text class="pr" x="60" y="394">³ TravelMontage</text>
+  <text class="pr" x="60" y="394">&#8211; TravelMontage</text>
 </svg>

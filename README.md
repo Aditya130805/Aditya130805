@@ -10,14 +10,14 @@
 
 <br/>
 
-<div align="center">
+<p align="center">
   <picture>
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/path-narrow-dark.svg">
     <source media="(max-width: 600px)" srcset="./assets/path-narrow-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/path-dark.svg">
-    <img src="./assets/path-light.svg" width="920" alt="A path from Launch Ventures to Adobe, with projects like WallPreview, Cardigarch, and TravelMontage along the way.">
+    <img src="./assets/path-light.svg" width="100%" alt="A path from Launch Ventures to Adobe, with projects like WallPreview, Cardigarch, and TravelMontage along the way." />
   </picture>
-</div>
+</p>
 
 ---
 
@@ -45,11 +45,6 @@ I like building things that feel good to use and hold up under the hood — appl
 </p>
 
 ---
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Aditya130805&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya130805&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Top languages" />
-</p>
 
 <p align="center">
   Always down to chat about AI, games, or shipping stuff —

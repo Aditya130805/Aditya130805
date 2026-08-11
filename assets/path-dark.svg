@@ -31,11 +31,11 @@
   <circle class="dot" cx="90" cy="100" r="4"/>
 
   <text class="co" x="270" y="52" text-anchor="middle">Yamaha</text>
-  <text class="yr" x="270" y="72" text-anchor="middle">2024  25</text>
+  <text class="yr" x="270" y="72" text-anchor="middle">2024 &#8211; 25</text>
   <circle class="dot" cx="270" cy="100" r="4"/>
   <line class="stem" x1="270" y1="108" x2="270" y2="145"/>
   <circle class="dot" cx="270" cy="148" r="2.5" opacity="0.45"/>
-  <text class="pr" x="270" y="170" text-anchor="middle">BoilerMake · 2nd</text>
+  <text class="pr" x="270" y="170" text-anchor="middle">BoilerMake &#183; 2nd</text>
 
   <text class="co" x="450" y="52" text-anchor="middle">EDP Renewables</text>
   <text class="yr" x="450" y="72" text-anchor="middle">2025</text>
